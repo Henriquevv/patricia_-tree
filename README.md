@@ -14,7 +14,8 @@ A árvore PATRICIA é uma representação compacta de uma Trie onde os nós que 
 
 ## Como usar:
 - Menu interativo
-- Alteração de "palavras.txt", incluindo as palavras com seus respectivos valores desejados.
+- Alteração do conteudo de "palavras.txt", incluindo as palavras com seus respectivos valores desejados.
+- Alterar FILENAME "include/palavras.txt" para FILENAME "include/palavras3.txt" (Visualização de 245126 palavras inseridas)
 
 ## Console (Visão Geral):
 ![image](https://github.com/Henriquevv/patricia_tree/assets/71598959/93fbc991-f872-4d8d-a1bc-b35fa8de3bab)
